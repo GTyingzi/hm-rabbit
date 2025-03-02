@@ -9,7 +9,7 @@ node版本：v23.9.0
 
 快速启动
 ```shell
-git clone 
+git clone https://github.com/GTyingzi/hm-rabbit.git
 npm install
 npm run dev
 ```
